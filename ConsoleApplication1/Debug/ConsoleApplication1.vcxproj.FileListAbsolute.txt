@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\ThucTap\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Desktop\ThucTap\ConsoleApplication1\Debug\ConsoleApplication1.pdb
